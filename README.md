@@ -2,4 +2,4 @@
 
 ## *27 yo, Nantes (France)*
 
-French front-end developper in ReactJS
+French front-end developper ReactJS
