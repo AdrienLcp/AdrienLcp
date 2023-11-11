@@ -1,6 +1,6 @@
 # **Adrien Lacourpaille**
 
-## *28 yo, Nantes (France)*
+## *29 yo, Nantes (France)*
 
 French front-end developper ReactJS
 
